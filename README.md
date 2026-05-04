@@ -1,4 +1,5 @@
 # The Booth — AI Sports Officiating Analysis
+Link to the web-app: https://the-booth-ten.vercel.app/
 
 > GDG BorderHack Hackathon Project · May 2026
 
